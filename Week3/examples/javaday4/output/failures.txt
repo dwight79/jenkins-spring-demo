@@ -1,3 +1,0 @@
-Bob,45
-Dave,38
-Frank,29
